@@ -22,3 +22,8 @@ Consequently, member A misses the the children event raised by member B and is n
 Commands
 =============
 1. echo ruok | nc localhost 2181
+
+Client Frameworks
+=============
+1.[ZooKeeper client wrapper and rich ZooKeeper framework](https://github.com/Netflix/curator)
+
