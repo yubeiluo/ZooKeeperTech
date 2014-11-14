@@ -27,3 +27,7 @@ Client Frameworks
 =============
 1.[ZooKeeper client wrapper and rich ZooKeeper framework](https://github.com/Netflix/curator)
 
+Use Cases
+============
+1. [Managing Configuration of Distributed System with Apache ZooKeeper](http://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/)
+
