@@ -30,4 +30,5 @@ Client Frameworks
 Use Cases
 ============
 1. [Managing Configuration of Distributed System with Apache ZooKeeper](http://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/)
+2. [Updating thousands of configuration files in under a second](http://code.zynga.com/2011/08/updating-thousands-of-configuration-files-in-under-a-second/)
 
