@@ -6,6 +6,7 @@ Presentations
 =============
 1. [ZooKeeper demo code for TriHUG May 22, 2012](https://github.com/mumrah/trihug-zookeeper-demo)
 2. [Introduction to ZooKeeper - TriHUG May 22, 2012](http://www.slideshare.net/mumrah/introduction-to-zookeeper-trihug-may-22-2012)
+3. [So we're running Apache ZooKeeper. Now What? By Camille Fournier](http://www.slideshare.net/g33ktalk/zoo-keeper-basics-sug)
  
 Problems about the group membership demo:
 
